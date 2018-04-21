@@ -40,6 +40,7 @@
 			setSize(390,460);
 			setTitle("KALKULATOR");
 			setLayout(null);
+			setResizable(false);
 			
 			tKonsola = new JTextField();
 			tKonsola.setBounds(30, 30, 315, 40);
